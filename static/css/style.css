@@ -1,5 +1,5 @@
 body {
-    text-align: center;
+    text-align:center;
     background-color: #92a8d1;
 }
 
@@ -19,7 +19,7 @@ header {
 input {
     margin: 0.25rem;
     border-radius: 0.5rem;
-    text-align: center;
+    text-align:center;
     width: 35%;
     background-color: #80ced6;
 }
