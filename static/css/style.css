@@ -1,18 +1,18 @@
 body {
     text-align: center;
-    background-color: #639a67;
+    background-color: blue;
 }
 
 header {
     font-family: 'Ultra', serif;
     padding-top: 40;
     padding-bottom: 40;
-    background-color: #2b580c;
-    color: #d8ebb5;
+    background-color: Red;
+    color: Green;
 }
 
 .btn {
-    background-color: #323232;
+    background-color: Black;
 }
 
 
@@ -21,7 +21,7 @@ input {
     border-radius: 0.5rem;
     text-align: center;
     width: 35%;
-    background-color: #d8ebb5;
+    background-color: Black;
 }
 
 @media screen and (max-width: 500px) {
